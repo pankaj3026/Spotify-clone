@@ -1,0 +1,23 @@
+.border{
+    border: 2px solid rgb(6, 6, 6);
+}
+.flex{
+    display: flex;
+
+}
+.just{
+    justify-content: center;
+}
+.algn{
+    align-items: center;
+}
+.bggrey{
+    background-color:#121212 ;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+.p1{
+    padding: 14px;
+}
